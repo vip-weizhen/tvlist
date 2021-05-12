@@ -1,157 +1,157 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="央视频道",CCTV1
 http://live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-#EXTINF:-1,CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV2
 http://live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
-#EXTINF:-1,CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV3
 http://live.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
-#EXTINF:-1,CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV4
 http://live.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV5
 http://live.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV5+
 http://live.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-#EXTINF:-1,CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV6
 http://live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
-#EXTINF:-1,CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV7
 http://live.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
-#EXTINF:-1,CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV8
 http://live.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
-#EXTINF:-1,CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV9
 http://live.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
-#EXTINF:-1,CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV10
 http://live.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
-#EXTINF:-1,CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV11
 http://live.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
-#EXTINF:-1,CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV12
 http://live.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV13
 http://live.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-#EXTINF:-1,CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV14
 http://live.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
-#EXTINF:-1,CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV15
 http://live.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
-#EXTINF:-1,CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
-#EXTINF:-1,CHC家庭电影
-http://live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-#EXTINF:-1,CHC动作电影
-http://live.rxip.sc96655.com/live/gef.wqCHCdzdyH265_4000.m3u8
-#EXTINF:-1,江苏卫视
-http://live.rxip.sc96655.com/live/jswsH265_4000.m3u8
-#EXTINF:-1,北京卫视
-http://live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
-#EXTINF:-1,东方卫视
-http://live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
-#EXTINF:-1,湖南卫视
-http://live.rxip.sc96655.com/live/hnwsH265_4000.m3u8
-#EXTINF:-1,浙江卫视
-http://live.rxip.sc96655.com/live/zjwsH265_4000.m3u8
-#EXTINF:-1,广东卫视
-http://live.rxip.sc96655.com/live/gdwsH265_4000.m3u8
-#EXTINF:-1,江西卫视
-http://live.rxip.sc96655.com/live/jxwsH265_4000.m3u8
-#EXTINF:-1,湖北卫视
-http://live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-#EXTINF:-1,重庆卫视
-http://live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
-#EXTINF:-1,安徽卫视
-http://live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
-#EXTINF:-1,东南卫视
-http://live.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-#EXTINF:-1,山东卫视
-http://live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
-#EXTINF:-1,深圳卫视
-http://live.rxip.sc96655.com/live/szwsH265_4000.m3u8
-#EXTINF:-1,天津卫视
-http://live.rxip.sc96655.com/live/tjwsH265_4000.m3u8
-#EXTINF:-1,贵州卫视
-http://live.rxip.sc96655.com/live/gzwsH265_4000.m3u8
-#EXTINF:-1,吉林卫视
-http://live.rxip.sc96655.com/live/jlwsH265_4000.m3u8
-#EXTINF:-1,黑龙江卫视
-http://live.rxip.sc96655.com/live/hljwsH265_4000.m3u8
-#EXTINF:-1,四川卫视
-http://live.rxip.sc96655.com/live/scwsH265_4000.m3u8
-#EXTINF:-1,CCTV风云音乐
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://live.rxip.sc96655.com/live/fyyy_4000.m3u8
-#EXTINF:-1,CCTV女性时尚
+#EXTINF:-1 group-title="央视频道",CCTV女性时尚
 http://live.rxip.sc96655.com/live/nxss_4000.m3u8
-#EXTINF:-1,CCTV兵器科教
+#EXTINF:-1 group-title="央视频道",CCTV兵器科教
 http://live.rxip.sc96655.com/live/bqkj_4000.m3u8
-#EXTINF:-1,CCTV世界地理
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://live.rxip.sc96655.com/live/sjdl_4000.m3u8
-#EXTINF:-1,CCTV世界地理
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://live.rxip.sc96655.com/live/yscq4kH265_4000.m3u8
-#EXTINF:-1,甘肃卫视
+#EXTINF:-1 group-title="央视频道",CHC家庭电影
+http://live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 group-title="央视频道",CHC动作电影
+http://live.rxip.sc96655.com/live/gef.wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",江苏卫视
+http://live.rxip.sc96655.com/live/jswsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",北京卫视
+http://live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",东方卫视
+http://live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",湖南卫视
+http://live.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",浙江卫视
+http://live.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",广东卫视
+http://live.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",江西卫视
+http://live.rxip.sc96655.com/live/jxwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",湖北卫视
+http://live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",重庆卫视
+http://live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",安徽卫视
+http://live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",东南卫视
+http://live.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",山东卫视
+http://live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",深圳卫视
+http://live.rxip.sc96655.com/live/szwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",天津卫视
+http://live.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",贵州卫视
+http://live.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",吉林卫视
+http://live.rxip.sc96655.com/live/jlwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",黑龙江卫视
+http://live.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",四川卫视
+http://live.rxip.sc96655.com/live/scwsH265_4000.m3u8
+#EXTINF:-1 group-title="各省卫视",甘肃卫视
 http://live.rxip.sc96655.com/live/gsws_4000.m3u8
-#EXTINF:-1,云南卫视
+#EXTINF:-1 group-title="各省卫视",云南卫视
 http://live.rxip.sc96655.com/live/ynws_4000.m3u8
-#EXTINF:-1,广西卫视
+#EXTINF:-1 group-title="各省卫视",广西卫视
 http://live.rxip.sc96655.com/live/gxws_4000.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 group-title="各省卫视",河南卫视
 http://live.rxip.sc96655.com/live/hnws35_4000.m3u8
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 group-title="各省卫视",陕西卫视
 http://live.rxip.sc96655.com/live/sxws_4000.m3u8
-#EXTINF:-1,山西卫视
+#EXTINF:-1 group-title="各省卫视",山西卫视
 http://live.rxip.sc96655.com/live/sxws42_4000.m3u8
-#EXTINF:-1,内蒙古卫视
+#EXTINF:-1 group-title="各省卫视",内蒙古卫视
 http://live.rxip.sc96655.com/live/nmgws_4000.m3u8
-#EXTINF:-1,风云音乐HD
-http://live.rxip.sc96655.com/live/fyyy_4000.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 group-title="各省卫视",河南卫视
 http://live.rxip.sc96655.com/live/hnws_4000.m3u8
-#EXTINF:-1,四海钓鱼
+#EXTINF:-1 group-title="数字频道",风云音乐HD
+http://live.rxip.sc96655.com/live/fyyy_4000.m3u8
+#EXTINF:-1 group-title="数字频道",四海钓鱼
 http://live.rxip.sc96655.com/live/shdy_4000.m3u8
-#EXTINF:-1,国防军事
+#EXTINF:-1 group-title="数字频道",国防军事
 http://live.rxip.sc96655.com/live/gfjs_4000.m3u8
-#EXTINF:-1,世界地理
+#EXTINF:-1 group-title="数字频道",世界地理
 http://live.rxip.sc96655.com/live/sjdl_4000.m3u8
-#EXTINF:-1,摄影
+#EXTINF:-1 group-title="数字频道",摄影
 http://live.rxip.sc96655.com/live/sy_4000.m3u8
-#EXTINF:-1,早期教育
+#EXTINF:-1 group-title="数字频道",早期教育
 http://live.rxip.sc96655.com/live/zqjy_4000.m3u8
-#EXTINF:-1,CETV4
+#EXTINF:-1 group-title="数字频道",CETV4
 http://live.rxip.sc96655.com/live/zhms_4000.m3u8
-#EXTINF:-1,家庭理财
+#EXTINF:-1 group-title="数字频道",家庭理财
 http://live.rxip.sc96655.com/live/jtlcH264_4000.m3u8
-#EXTINF:-1,成都新闻综合
+#EXTINF:-1 group-title="数字频道",成都新闻综合
 http://live.rxip.sc96655.com/live/CDTV-1_4000.m3u8
-#EXTINF:-1,成都经济资讯
+#EXTINF:-1 group-title="数字频道",成都经济资讯
 http://live.rxip.sc96655.com/live/CDTV-2_4000.m3u8
-#EXTINF:-1,成都都市生活
+#EXTINF:-1 group-title="数字频道",成都都市生活
 http://live.rxip.sc96655.com/live/CDTV-3_4000.m3u8
-#EXTINF:-1,成都影视文艺
+#EXTINF:-1 group-title="数字频道",成都影视文艺
 http://live.rxip.sc96655.com/live/CDTV-4_4000.m3u8
-#EXTINF:-1,成都公共频道
+#EXTINF:-1 group-title="数字频道",成都公共频道
 http://live.rxip.sc96655.com/live/CDTV-5_4000.m3u8
-#EXTINF:-1,CETV1
+#EXTINF:-1 group-title="数字频道",CETV1
 http://live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
-#EXTINF:-1,快乐垂钓
+#EXTINF:-1 group-title="数字频道",快乐垂钓
 http://live.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
-#EXTINF:-1,极速汽车
+#EXTINF:-1 group-title="数字频道",极速汽车
 http://live.rxip.sc96655.com/live/jsqcH265_4000.m3u8
-#EXTINF:-1,动漫秀场
+#EXTINF:-1 group-title="数字频道",动漫秀场
 http://live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
-#EXTINF:-1,都市剧场
+#EXTINF:-1 group-title="数字频道",都市剧场
 http://live.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
-#EXTINF:-1,新视觉
+#EXTINF:-1 group-title="数字频道",新视觉
 http://live.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-#EXTINF:-1,生活时尚
+#EXTINF:-1 group-title="数字频道",生活时尚
 http://live.rxip.sc96655.com/live/shssH265_4000.m3u8
-#EXTINF:-1,全纪实
+#EXTINF:-1 group-title="数字频道",全纪实
 http://live.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
-#EXTINF:-1,四川科教hd
+#EXTINF:-1 group-title="数字频道",四川科教hd
 http://live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
-#EXTINF:-1,四川公共乡村hd
+#EXTINF:-1 group-title="数字频道",四川公共乡村hd
 http://live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
-#EXTINF:-1,SCTV-7hd
+#EXTINF:-1 group-title="数字频道",SCTV-7hd
 http://live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
-#EXTINF:-1,四川文化旅游hd
+#EXTINF:-1 group-title="数字频道",四川文化旅游hd
 http://live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1,峨眉电影hd
+#EXTINF:-1 group-title="数字频道",峨眉电影hd
 http://live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-#EXTINF:-1,四川经济hd
+#EXTINF:-1 group-title="数字频道",四川经济hd
 http://live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
-#EXTINF:-1,四川新闻hd
+#EXTINF:-1 group-title="数字频道",四川新闻hd
 http://live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
