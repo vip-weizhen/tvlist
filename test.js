@@ -1,7 +1,7 @@
 const html = `<!DOCTYPE html>
 <body>
 
-央视频道,#genre#
+央视频道,#genre#<br>
 CCTV1综合,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8<br>
 CCTV2财经,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8<br>
 CCTV3综艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8<br>
@@ -20,7 +20,7 @@ CCTV14少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
 CCTV15音乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8<br>
 CCTV17农业,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8<br>
 
-各省卫视,#genre#
+各省卫视,#genre#<br>
 北京卫视,http://101.71.255.229:6610/zjhs/2/10136/index.m3u8?virtualDomain=zjhs.live_hls.zte.com<br>
 上海卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8<br>
 重庆卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8<br>
