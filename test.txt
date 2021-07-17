@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视频道",CCTV1
 http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="央视频道",CCTV2
 http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="央视频道",CCTV3
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4asia.jpg" group-title="央视频道",CCTV4
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="央视频道",CCTV5
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="央视频道",CCTV5+
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="央视频道",CCTV6
 http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227430/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" group-title="央视频道",CCTV7
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="央视频道",CCTV8
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" group-title="央视频道",CCTV9
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="央视频道",CCTV10
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" group-title="央视频道",CCTV11
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="央视频道",CCTV12
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="央视频道",CCTV13
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="央视频道",CCTV14
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="央视频道",CCTV15
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv17.jpg" group-title="央视频道",CCTV17
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
