@@ -1,3 +1,4 @@
+央视频道
 CCTV1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 CCTV2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 CCTV3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
@@ -21,6 +22,7 @@ CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
+各省卫视
 北京卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 上海卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8#http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227688/index.m3u8
 重庆卫视,http://223.110.246.78/ott.js.chinamobile.com/PLTV/4/224/3221227632/index.m3u8
@@ -54,5 +56,18 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8#http://223.110.248.16/ott.js.chinamobile.com/PLTV/4/224/3221227753/index.m3u8
 内蒙古卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
+数字频道
+梨园频道,http://125.210.152.18:9090/live/LY.m3u8
+快乐垂钓,http://125.210.152.18:9090/live/KLCD.m3u8
+茶频道,http://125.210.152.18:9090/live/CPD.m3u8
+四海钓鱼,http://125.210.152.18:9090/live/SHDY.m3u8
+中国气象,http://125.210.152.18:9090/live/ZGQX.m3u8
+环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
+家庭理财,http://125.210.152.18:9090/live/JTLC.m3u8
+收藏天下,http://125.210.152.18:9090/live/SCTX.m3u8
+环球奇观,http://125.210.152.18:9090/live/HQQG.m3u8
+广东高尔夫,http://125.210.152.18:9090/live/GEF.m3u8
+书画,http://125.210.152.18:9090/live/SH.m3u8
+港澳台
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
