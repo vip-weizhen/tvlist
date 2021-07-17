@@ -15,7 +15,7 @@ CCTV9纪录,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/
 CCTV10科教,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8<br>
 CCTV11戏曲,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8<br>
 CCTV12社会,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8<br>
-CCTV13新闻,http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8<br>
+CCTV13新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8<br>
 CCTV14少儿,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8<br>
 CCTV15音乐,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8<br>
 CCTV17农业,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8<br>
