@@ -2,39 +2,39 @@ const html = `<!DOCTYPE html>
 <body>
 
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV-1综合
+#EXTINF:-1 group-title="央视频道",CCTV1综合
 http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2财经
+#EXTINF:-1 group-title="央视频道",CCTV2财经
 http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3综艺
+#EXTINF:-1 group-title="央视频道",CCTV3综艺
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4国际
+#EXTINF:-1 group-title="央视频道",CCTV4国际
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5体育
+#EXTINF:-1 group-title="央视频道",CCTV5体育
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+赛事
+#EXTINF:-1 group-title="央视频道",CCTV5+赛事
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影
+#EXTINF:-1 group-title="央视频道",CCTV6电影
 http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227430/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7军事
+#EXTINF:-1 group-title="央视频道",CCTV7军事
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8视剧
+#EXTINF:-1 group-title="央视频道",CCTV8视剧
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227629/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9纪录
+#EXTINF:-1 group-title="央视频道",CCTV9纪录
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10科教
+#EXTINF:-1 group-title="央视频道",CCTV10科教
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
+#EXTINF:-1 group-title="央视频道",CCTV11戏曲
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12社会
+#EXTINF:-1 group-title="央视频道",CCTV12社会
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻
+#EXTINF:-1 group-title="央视频道",CCTV13新闻
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14少儿
+#EXTINF:-1 group-title="央视频道",CCTV14少儿
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15音乐
+#EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17农业
+#EXTINF:-1 group-title="央视频道",CCTV17农业
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 group-title="央视频道",CHC动作电影
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002055?virtualDomain=yinhe.live_hls.zte.com
@@ -44,9 +44,9 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002065?virtualDomain=yinhe.liv
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频道",发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-老故事
+#EXTINF:-1 group-title="央视频道",CCTV老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-女性时尚
+#EXTINF:-1 group-title="央视频道",CCTV女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 #EXTINF:-1 group-title="各省卫视",北京卫视
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
@@ -114,10 +114,33 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8#http://223.110.248.16/ott.js.chinamobile.com/PLTV/4/224/3221227753/index.m3u8
 #EXTINF:-1 group-title="各省卫视",内蒙古卫视
 http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
-#EXTINF:-1 group-title="各省卫视",凤凰资讯
+#EXTINF:-1 group-title="数字频道",梨园频道
+http://125.210.152.18:9090/live/LY.m3u8
+#EXTINF:-1 group-title="数字频道",快乐垂钓
+http://125.210.152.18:9090/live/KLCD.m3u8
+#EXTINF:-1 group-title="数字频道",茶频道
+http://125.210.152.18:9090/live/CPD.m3u8
+#EXTINF:-1 group-title="数字频道",四海钓鱼
+http://125.210.152.18:9090/live/SHDY.m3u8
+#EXTINF:-1 group-title="数字频道",中国气象
+http://125.210.152.18:9090/live/ZGQX.m3u8
+#EXTINF:-1 group-title="数字频道",环球旅游
+http://125.210.152.18:9090/live/HQLY.m3u8
+#EXTINF:-1 group-title="数字频道",家庭理财
+http://125.210.152.18:9090/live/JTLC.m3u8
+#EXTINF:-1 group-title="数字频道",收藏天下
+http://125.210.152.18:9090/live/SCTX.m3u8
+#EXTINF:-1 group-title="数字频道",环球奇观
+http://125.210.152.18:9090/live/HQQG.m3u8
+#EXTINF:-1 group-title="数字频道",广东高尔夫
+http://125.210.152.18:9090/live/GEF.m3u8
+#EXTINF:-1 group-title="数字频道",书画
+http://125.210.152.18:9090/live/SH.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 group-title="各省卫视",凤凰中文
+#EXTINF:-1 group-title="港澳台",凤凰中文
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+
 
 
 </body>`
