@@ -148,6 +148,12 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 铁齿铜牙纪晓岚,http://hy.tushepy.com/pls/huya.php?id=11342396
 齐天大圣孙悟空,http://hy.tushepy.com/pls/huya.php?id=23728660
 封神榜,http://hy.tushepy.com/pls/huya.php?id=11342388
+狄仁杰,http://hy.tushepy.com/pls/huya.php?id=11352958
+漫威宇宙,http://hy.tushepy.com/pls/huya.php?id=11602034
+活佛济公,http://hy.tushepy.com/pls/huya.php?id=11342400
+少年包青天,http://hy.tushepy.com/pls/huya.php?id=11342393
+沈腾,http://hy.tushepy.com/pls/huya.php?id=11601968
+周星驰,http://hy.tushepy.com/pls/huya.php?id=11342412
 
 </body>`
 
