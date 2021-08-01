@@ -47,6 +47,8 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.liv
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvlgs.jpg" group-title="央视频道",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvxkdm.jpg" group-title="央视频道",新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvnxss.jpg" group-title="央视频道",女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/beijingtv.jpg" group-title="各省卫视",北京卫视
@@ -126,7 +128,7 @@ http://125.210.152.18:9090/live/CPD.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sihaidiaoyu.jpg" group-title="数字频道",四海钓鱼
 http://125.210.152.18:9090/live/SHDY.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/zgqxpd.jpg" group-title="数字频道",中国气象
-http://125.210.152.18:9090/live/ZGQX.m3u8
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://125.210.152.18:9090/live/ZGQX.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/globaltravel.jpg" group-title="数字频道",环球旅游
 http://125.210.152.18:9090/live/HQLY.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnjtlc.jpg" group-title="数字频道",家庭理财
@@ -141,6 +143,65 @@ http://125.210.152.18:9090/live/SH.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="港澳台",凤凰中文
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hkstv.jpg" group-title="港澳台",HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hkopentv.jpg" group-title="港澳台",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-xinhe.jpg" group-title="港澳台",TVB星河频道
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="港澳台",星空衛視
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 group-title="港澳台",澳门卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg" group-title="港澳台",天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="港澳台",天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",天映频道(粵)
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="港澳台",华丽台
+http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",欢喜台
+http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",爱奇艺
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",channel 5
+http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Channel 8
+http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",CNA
+http://50.7.222.130:8278/streams/d/cna/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Suria
+http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Channel U
+http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Vasantham
+http://50.7.222.130:8278/streams/d/Vasantham/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TV3
+http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",supersports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Supersports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Supersports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Supersports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",boo恐怖片
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",八度空间
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVB 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",小太阳
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",AOD HD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+
 
 
 
