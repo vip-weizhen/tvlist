@@ -37,7 +37,6 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 中学生,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 
-
 各省卫视,#genre#
 北京卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
 东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8#http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227688/index.m3u8
@@ -73,7 +72,13 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8#http://223.110.248.16/ott.js.chinamobile.com/PLTV/4/224/3221227753/index.m3u8
 内蒙古卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
 西藏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
+
 数字频道,#genre#
+劲爆体育,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
+新视觉HD,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
+五星体育,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+极速汽车,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jsqchd/2300000/mnf.m3u8
+游戏风云,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/2300000/mnf.m3u8
 梨园,http://125.210.152.18:9090/live/LY.m3u8
 快乐垂钓,http://125.210.152.18:9090/live/KLCD.m3u8
 茶频道,http://125.210.152.18:9090/live/CPD.m3u8
@@ -104,6 +109,7 @@ NewTV精品大剧,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/32212
 NewTV精品纪录,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
 NewTV金牌综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
 NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+
 港澳台,#genre#
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
@@ -136,6 +142,12 @@ boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
+影视轮播,#genre#
+封神榜,http://hy.tushepy.com/pls/huya.php?id=23749096
+武林外传,http://hy.tushepy.com/pls/huya.php?id=11352915
+铁齿铜牙纪晓岚,http://hy.tushepy.com/pls/huya.php?id=11342396
+齐天大圣孙悟空,http://hy.tushepy.com/pls/huya.php?id=23728660
+封神榜,http://hy.tushepy.com/pls/huya.php?id=11342388
 
 </body>`
 
