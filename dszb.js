@@ -112,7 +112,7 @@ NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/32212
 
 港澳台,#genre#
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
