@@ -74,11 +74,8 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 西藏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
 
 数字频道,#genre#
-劲爆体育,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
-新视觉HD,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
-五星体育,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
-极速汽车,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jsqchd/2300000/mnf.m3u8
-游戏风云,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/2300000/mnf.m3u8
+新视觉HD,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 梨园,http://125.210.152.18:9090/live/LY.m3u8
 快乐垂钓,http://125.210.152.18:9090/live/KLCD.m3u8
 茶频道,http://125.210.152.18:9090/live/CPD.m3u8
@@ -91,6 +88,7 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 书画频道,http://125.210.152.18:9090/live/SH.m3u8
 SiTV动漫秀场,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 SSiTV都市剧场,http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+SiTV全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 黑莓动画,http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 NewTV潮妈辣婆,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
 NewTV中国功夫,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
