@@ -26,11 +26,11 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+发现之旅,http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+老故事,http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
+女性时尚,http://223.110.241.139:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
@@ -74,6 +74,8 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 西藏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
 
 数字频道,#genre#
+游戏风云,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
+纪实人文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 梨园,http://125.210.152.18:9090/live/LY.m3u8
 快乐垂钓,http://125.210.152.18:9090/live/KLCD.m3u8
 茶频道,http://125.210.152.18:9090/live/CPD.m3u8
