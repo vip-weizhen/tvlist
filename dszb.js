@@ -74,8 +74,6 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 西藏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
 
 数字频道,#genre#
-新视觉HD,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 梨园,http://125.210.152.18:9090/live/LY.m3u8
 快乐垂钓,http://125.210.152.18:9090/live/KLCD.m3u8
 茶频道,http://125.210.152.18:9090/live/CPD.m3u8
@@ -140,18 +138,6 @@ boo恐怖片,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-影视轮播,#genre#
-封神榜,http://hy.tushepy.com/pls/huya.php?id=23749096
-武林外传,http://hy.tushepy.com/pls/huya.php?id=11352915
-铁齿铜牙纪晓岚,http://hy.tushepy.com/pls/huya.php?id=11342396
-齐天大圣孙悟空,http://hy.tushepy.com/pls/huya.php?id=23728660
-封神榜,http://hy.tushepy.com/pls/huya.php?id=11342388
-狄仁杰,http://hy.tushepy.com/pls/huya.php?id=11352958
-漫威宇宙,http://hy.tushepy.com/pls/huya.php?id=11602034
-活佛济公,http://hy.tushepy.com/pls/huya.php?id=11342400
-少年包青天,http://hy.tushepy.com/pls/huya.php?id=11342393
-沈腾,http://hy.tushepy.com/pls/huya.php?id=11601968
-周星驰,http://hy.tushepy.com/pls/huya.php?id=11342412
 
 </body>`
 
