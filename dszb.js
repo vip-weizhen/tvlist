@@ -72,6 +72,19 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8#http://223.110.248.16/ott.js.chinamobile.com/PLTV/4/224/3221227753/index.m3u8
 内蒙古卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
 西藏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
+延边卫视,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+
+地方台,#genre#
+南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+南京影视,http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+徐州-3,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+徐州-4,http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
 
 数字频道,#genre#
 游戏风云,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
@@ -141,7 +154,7 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 埋堆堆,#genre#
-堆堆1,http://api.phoves.com.cn/iptv/huya.php?id=23749096
+埋堆堆1,http://api.phoves.com.cn/iptv/huya.php?id=23749096
 埋堆堆2,http://api.phoves.com.cn/iptv/huya.php?id=23735126
 埋堆堆3,http://api.phoves.com.cn/iptv/huya.php?id=23865152
 埋堆堆4,http://api.phoves.com.cn/iptv/huya.php?id=23903196
