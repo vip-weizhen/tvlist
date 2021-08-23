@@ -16,7 +16,7 @@ CCTV9,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.
 CCTV10,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
 CCTV11,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 CCTV12,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
@@ -39,37 +39,36 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 
 各省卫视,#genre#
 北京卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-东方卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8#http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227688/index.m3u8
+东方卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227688/index.m3u8
 重庆卫视,http://223.110.246.78/ott.js.chinamobile.com/PLTV/4/224/3221227632/index.m3u8
 天津卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227756/index.m3u8
 新疆卫视,http://223.110.246.71/ott.js.chinamobile.com/PLTV/4/224/3221225844/index.m3u8
-浙江卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+浙江卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227692/index.m3u8
 东南卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-海峡卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 厦门卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
-湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8#http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
+湖南卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
 江苏卫视,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227689/index.m3u8
 江西卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
 青海卫视,http://223.110.246.69/ott.js.chinamobile.com/PLTV/4/224/3221225783/index.m3u8
 云南卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225838/index.m3u8
-贵州卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
-四川卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8#http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225814/index.m3u8
+贵州卫视,http://223.110.246.69/ott.js.chinamobile.com/PLTV/4/224/3221225787/index.m3u8
+四川卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225814/index.m3u8
 安徽卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227759/index.m3u8
-山东卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8#http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227697/index.m3u8
+山东卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227697/index.m3u8
 甘肃卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225846/index.m3u8
 广东卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227691/index.m3u8
 广西卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225806/index.m3u8
-深圳卫视,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/1.m3u8
-湖北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8#http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227703/index.m3u8
-河北卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227001/index.m3u8
-河南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8#http://223.110.246.68/ott.js.chinamobile.com/PLTV/4/224/3221225815/index.m3u8
-海南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+湖北卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227703/index.m3u8
+河北卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225840/index.m3u8
+河南卫视,http://223.110.246.68/ott.js.chinamobile.com/PLTV/4/224/3221225815/index.m3u8
+海南卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225810/index.m3u8
 宁夏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225842/index.m3u8
 山西卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221225786/index.m3u8
 陕西卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227022/index.m3u8
 辽宁卫视,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227700/index.m3u8
 吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8#http://223.110.248.16/ott.js.chinamobile.com/PLTV/4/224/3221227753/index.m3u8
+黑龙江卫视,http://223.110.248.16/ott.js.chinamobile.com/PLTV/4/224/3221227753/index.m3u8
 内蒙古卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221225836/index.m3u8
 西藏卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8
 延边卫视,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
@@ -87,8 +86,6 @@ CHC家庭电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 徐州-4,http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
 
 数字频道,#genre#
-游戏风云,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
-纪实人文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 梨园,http://125.210.152.18:9090/live/LY.m3u8
 快乐垂钓,http://125.210.152.18:9090/live/KLCD.m3u8
 茶频道,http://125.210.152.18:9090/live/CPD.m3u8
@@ -122,7 +119,7 @@ NewTV金牌综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/32212
 NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
 
 港澳台,#genre#
-凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
