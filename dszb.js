@@ -20,7 +20,7 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#http:/
 CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-CHC动作电影,http://60.255.49.202/live/gef.wqCHCdzdyH265_4000.m3u8
+CHC动作电影,http://60.255.49.202/live/wqCHCdzdyH265_4000.m3u8
 CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
