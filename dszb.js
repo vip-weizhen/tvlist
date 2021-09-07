@@ -36,6 +36,9 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 中学生,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
+风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 
 各省卫视,#genre#
 北京卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
