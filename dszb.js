@@ -16,7 +16,7 @@ CCTV9,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.
 CCTV10,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
 CCTV11,http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 CCTV12,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV14,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 CCTV17,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
@@ -49,7 +49,7 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 浙江卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227692/index.m3u8
 东南卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 厦门卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
-湖南卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
+湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8#http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
 江苏卫视,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227689/index.m3u8
 江西卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
 青海卫视,http://223.110.246.69/ott.js.chinamobile.com/PLTV/4/224/3221225783/index.m3u8
@@ -231,7 +231,7 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 轮播台,#genre#
 雍正王朝,http://api.phoves.com.cn/iptv/huya.php?id=11352936
-武林外传,http://api.phoves.com.cn/iptv/huya.php?id=11352915
+武林外传,http://vip.auney.cn/api/huya.php?id=11352915#http://api.phoves.com.cn/iptv/huya.php?id=11352915
 鹿鼎记,http://api.phoves.com.cn/iptv/huya.php?id=11352910
 铁齿铜牙纪晓岚,http://api.phoves.com.cn/iptv/huya.php?id=11342396#http://api.phoves.com.cn/iptv/bili.php?id=6694373
 少年包青天,http://api.phoves.com.cn/iptv/huya.php?id=11342393
