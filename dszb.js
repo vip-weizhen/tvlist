@@ -77,10 +77,12 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 延边卫视,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
 
 地方台,#genre#
-徐州-1,http://stream1.huaihai.tv/xwzh/playlist.m3u8
-徐州-2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-徐州-3,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-徐州-4,http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+邳州综合,http://live.plus.pznews.com/pzzhpd/sd/live.m3u8
+邳州综艺,http://live.plus.pznews.com/pzxwpd/sd/live.m3u8
+徐州新闻综合,http://stream1.huaihai.tv/xwzh/playlist.m3u8
+徐州经济生活,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+徐州文艺影视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+徐州公共频道,http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
