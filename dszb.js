@@ -141,7 +141,8 @@ NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/32212
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 寰宇新闻,http://www.hrpan.tk/hls/tl_hyxw.m3u8
 TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
-
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
 
 埋堆堆,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
@@ -208,15 +209,16 @@ TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 轮播台,#genre#
-倚天屠龙记,http://va.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.flv?wsTime
-少年包青天,http://va.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.flv?wsTime
-天龙八部,http://va.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.flv?wsTime
-天下第一,http://va.huya.com/huyalive/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.flv?wsTime
-成龍历险记,http://va.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.flv?wsTime
-猫和老鼠,http://va.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsTime
+神医喜来乐,http://121.51.249.53/tx.hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8
+倚天屠龙记,http://121.51.249.53/tx.hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8
+少年包青天,http://121.51.249.53/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8
+天龙八部,http://121.51.249.53/tx.hls.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8
+天下第一,http://121.51.249.53/tx.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8
+成龍历险记,http://121.51.249.53/tx.hls.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8
+猫和老鼠,http://121.51.249.53/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 倒霉熊,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8
-武林外传,http://va.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.flv?wsTime#http://vip.auney.cn/api/huya.php?id=11352915
-神探狄仁杰,http://vip.auney.cn/api/huya.php?id=11352958
+武林外传,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8#http://vip.auney.cn/api/huya.php?id=11352915
+神探狄仁杰,http://121.51.249.53/tx.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
 和平精英,https://d1--cn-gotcha204.bilivideo.com/live-bvc/750616/live_50329337_6907945_4000/index.m3u8
 王者荣耀,https://d1--cn-gotcha204.bilivideo.com/live-bvc/483937/live_392836434_52698792_4000/index.m3u8
 
