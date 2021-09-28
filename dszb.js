@@ -49,7 +49,7 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 浙江卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227692/index.m3u8
 东南卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 厦门卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8#http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
+湖南卫视,http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221227698/index.m3u8
 江苏卫视,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227689/index.m3u8
 江西卫视,http://223.110.245.151/ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8
 青海卫视,http://223.110.246.69/ott.js.chinamobile.com/PLTV/4/224/3221225783/index.m3u8
@@ -61,7 +61,7 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 甘肃卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225846/index.m3u8
 广东卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227691/index.m3u8
 广西卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225806/index.m3u8
-深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+深圳卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227695/index.m3u8
 湖北卫视,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227703/index.m3u8
 河北卫视,http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221225840/index.m3u8
 河南卫视,http://223.110.246.68/ott.js.chinamobile.com/PLTV/4/224/3221225815/index.m3u8
@@ -93,13 +93,11 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 
 数字频道,#genre#
-移动戏曲,http://hndxrm1.8686c.com/live/live31_tzwj_500k.m3u8
 梨园,http://125.210.152.18:9090/live/LY.m3u8
 快乐垂钓,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 茶频道,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
 四海钓鱼,http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://125.210.152.18:9090/live/ZGQX.m3u8
-环球旅游,http://125.210.152.18:9090/live/HQLY.m3u8
 家庭理财,http://125.210.152.18:9090/live/JTLC.m3u8
 收藏天下,http://125.210.152.18:9090/live/SCTX.m3u8
 环球奇观,http://125.210.152.18:9090/live/HQQG.m3u8
@@ -208,7 +206,37 @@ TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
 埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
+ihot系列,#genre#
+爱奇谈,http://112.15.230.41/PLTV/88888888/224/3221230023/index.m3u8
+爱玩具,http://112.15.230.41/PLTV/88888888/224/3221230026/index.m3u8
+爱电竞,http://112.15.230.41/PLTV/88888888/224/3221230029/index.m3u8
+爱赛车,http://112.15.230.41/PLTV/88888888/224/3221230032/index.m3u8
+爱体育,http://112.15.230.41/PLTV/88888888/224/3221230034/index.m3u8
+爱体育,http://112.15.230.41/PLTV/88888888/224/3221230103/index.m3u8
+爱世界,http://112.15.230.41/PLTV/88888888/224/3221230046/index.m3u8
+爱怀旧,http://112.15.230.41/PLTV/88888888/224/3221230049/index.m3u8
+爱旅行,http://112.15.230.41/PLTV/88888888/224/3221230052/index.m3u8
+爱江湖,http://112.15.230.41/PLTV/88888888/224/3221230074/index.m3u8
+爱娱乐,http://112.15.230.41/PLTV/88888888/224/3221230077/index.m3u8
+爱解密,http://112.15.230.41/PLTV/88888888/224/3221230080/index.m3u8
+爱军武,http://112.15.230.41/PLTV/88888888/224/3221230083/index.m3u8
+爱幼教,http://112.15.230.41/PLTV/88888888/224/3221230086/index.m3u8
+爱谍战,http://112.15.230.41/PLTV/88888888/224/3221230092/index.m3u8
+爱猎奇,http://112.15.230.41/PLTV/88888888/224/3221230097/index.m3u8
+爱悬疑,http://112.15.230.41/PLTV/88888888/224/3221230098/index.m3u8
+爱历史,http://112.15.230.41/PLTV/88888888/224/3221230100/index.m3u8
+爱经典,http://112.15.230.41/PLTV/88888888/224/3221230101/index.m3u8
+爱都市,http://112.15.230.41/PLTV/88888888/224/3221230104/index.m3u8
+爱科学,http://112.15.230.41/PLTV/88888888/224/3221230106/index.m3u8
+爱时尚,http://112.15.230.41/PLTV/88888888/224/3221230109/index.m3u8
+爱探索,http://112.15.230.41/PLTV/88888888/224/3221230112/index.m3u8
+爱美食,http://112.15.230.41/PLTV/88888888/224/3221230115/index.m3u8
+爱家庭,http://112.15.230.41/PLTV/88888888/224/3221230118/index.m3u8
+爱青春,http://112.15.230.41/PLTV/88888888/224/3221230130/index.m3u8
+爱动漫,http://112.15.230.41/PLTV/88888888/224/3221230136/index.m3u8
+
 轮播台,#genre#
+康熙微服私访记,http://121.51.249.53/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8
 神医喜来乐,http://121.51.249.53/tx.hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8
 倚天屠龙记,http://121.51.249.53/tx.hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8
 少年包青天,http://121.51.249.53/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8
@@ -221,8 +249,6 @@ TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
 神探狄仁杰,http://121.51.249.53/tx.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8
 和平精英,https://d1--cn-gotcha204.bilivideo.com/live-bvc/750616/live_50329337_6907945_4000/index.m3u8
 王者荣耀,https://d1--cn-gotcha204.bilivideo.com/live-bvc/483937/live_392836434_52698792_4000/index.m3u8
-
-
 
 
 </body>`
