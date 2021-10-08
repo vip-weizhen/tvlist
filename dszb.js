@@ -108,6 +108,7 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 收藏天下,http://125.210.152.18:9090/live/SCTX.m3u8
 环球奇观,http://125.210.152.18:9090/live/HQQG.m3u8
 书画频道,http://125.210.152.18:9090/live/SH.m3u8
+SiTV七彩戏剧,http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 SiTV动漫秀场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV游戏风云,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
@@ -147,6 +148,10 @@ HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+龙祥时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+
 
 埋堆堆,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
