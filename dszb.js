@@ -97,6 +97,16 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 南京影视,http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+江苏体育休闲,http://149.129.100.78/jiangsu.php?id=jsty
+江苏公共新闻,http://149.129.100.78/jiangsu.php?id=jsgg
+江苏国际,http://149.129.100.78/jiangsu.php?id=jsgj
+江苏城市,http://149.129.100.78/jiangsu.php?id=jscs
+江苏学习,http://149.129.100.78/jiangsu.php?id=jsxx
+江苏影视,http://149.129.100.78/jiangsu.php?id=jsys
+江苏教育,http://149.129.100.78/jiangsu.php?id=jsjy
+江苏综艺,http://149.129.100.78/jiangsu.php?id=jszy
+江苏靓妆,http://149.129.100.78/jiangsu.php?id=jslz
+
 
 数字频道,#genre#
 梨园,http://125.210.152.18:9090/live/LY.m3u8
