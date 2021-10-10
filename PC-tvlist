@@ -1,11 +1,15 @@
 const html = `<!DOCTYPE html>
 <head>
-    <title>电视直播</title>
+    <title>Mr.wei-电视直播</title>
  </head>
 <body>
 
 <table border="1" align="center">
-<td align="center"><a href="https://crxsoso.com/addon/detail/cbejhjafkjgnnlikjfdfjkgbicegafif">电脑访问记得装插件哦</a></td>
+<td align="center"><a href="https://crxsoso.com/addon/detail/cbejhjafkjgnnlikjfdfjkgbicegafif"><font color="#FF0000">电脑访问记得装插件哦</a></td>
+<td align="center"><font color="#FF0000">更新日期:2021.10.10</a></td>
+<td align="center"><font color="#FF0000">联系我：</a></td>
+<td align="center"><font color="#FF0000">vip.weizhen@gmail.com</a></td>
+<td align="center"><a href="https://blog.weizhen.xyz"><font color="#FF0000">Powered by Mr.wei</a></td>
 <tr>
 <td align="center"><a href="http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8">CCTV-1综合</a></td>
 <td align="center"><a href="http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8">CCTV-2财经</a></td>
