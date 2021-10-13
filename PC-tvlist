@@ -150,7 +150,10 @@ background="back_708x10_1.gif" valign="bottom"><font color="#FFFFFF">【中央�
 <tr height="1" bgcolor="#0E6DBC">
 <td colspan="5" height="1" bgcolor="#838CDD"></td>
 </tr>
-
+<tr height="20" bgcolor="#0E6DBC">
+<td height="20" colspan="5" bgcolor="#213987" align="center"
+background="back_708x10_1.gif" valign="bottom"><font color="#FFFFFF">Powered by Mr.wei  @2021.10.13</font></td>
+</tr>
 
 
 </body>`
