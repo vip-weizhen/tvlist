@@ -148,6 +148,24 @@ NewTV精品大剧,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/32212
 NewTV精品纪录,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
 NewTV金牌综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
 NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
+CIBN炫佳动漫,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
+CIBN朵丫乐园,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QiChe
+CIBN映画,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=TiYu
+CIBN风尚运动,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DanJi
+CIBN真人秀,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LuShi
+CIBN生活,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
+CIBN微电影,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YingXiong
+CIBN家居用品,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=jiayougouwu
+CIBN动漫剧场,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QinZi
+CIBN怡家,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiaoYu
+CIBN时尚生活,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin
+CIBN古装剧场,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
+CIBN流金岁月,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang
+CIBN纪录片,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JianKang
+CIBN经典剧场,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DOTA2
+CIBN综合,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianJing
+CIBN骄阳剧场,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=MeiZhuang
+
 
 港澳台,#genre#
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
