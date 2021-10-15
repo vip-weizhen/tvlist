@@ -1,6 +1,7 @@
 const html = `<!DOCTYPE html>
 <head>
     <title>Mr.wei-电视直播</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/vip-weizhen/CDN/webtv.ico" />
     <style>
 .botCenter{width:100%; height:35px; line-height:35px; background:#213987; position:fixed; bottom:0px; left:0px; font-size:14px; color:#FFFFFF; text-align:center;}
 </style>
