@@ -4,4 +4,5 @@ tivimate.m3u
 使用过于繁琐，不在更新维护
 
 
-PC观看：https://webtv.weizhen.xyz/
+PC浏览器观看地址：https://webtv.weizhen.xyz/
+PC浏览器观看教程:https://blog.weizhen.xyz/article/000006/.html
