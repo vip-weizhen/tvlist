@@ -19,9 +19,10 @@ CCTV-12社会与法,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/322
 CCTV-13新闻,http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV-14少儿,http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 CCTV-15音乐,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-17农村农业,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CHC动作电影,http://60.255.49.202/live/wqCHCdzdyH265_4000.m3u8
+CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
 CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
@@ -110,6 +111,8 @@ CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 
 数字频道,#genre#
 梨园,http://125.210.152.18:9090/live/LY.m3u8
+中华美食,http://223.110.243.244/PLTV/4/224/3221227017/index.m3u8
+国学频道,http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/.m3u8
 快乐垂钓,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 茶频道,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
 四海钓鱼,http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
@@ -176,9 +179,7 @@ HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
-东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
-龙祥时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+
 
 
 埋堆堆,#genre#
@@ -272,9 +273,14 @@ iHOT系列,#genre#
 爱动漫,http://112.15.230.41/PLTV/88888888/224/3221230136/index.m3u8
 
 轮播台,#genre#
+李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+小品,http://121.51.249.99/txdirect.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8
+笑傲帮,http://121.51.249.99/txdirect.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
+笑傲江湖,http://121.51.249.99/txdirect.hls.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.m3u8
 舌尖上的中国,http://121.51.249.99/txdirect.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1-imgplus.m3u8
 铁齿铜牙纪晓岚,http://121.51.249.99/txdirect.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.m3u8
 人龙传说,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277677-1199561277677-5434860605724950528-2399122678810-10057-A-0-1.m3u8
+活佛济公,http://121.12.115.156/txdirect.hls.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8
 齐天大圣孙悟空,http://121.12.115.162/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8
 封神榜,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 武林外传,http://121.12.115.162/txdirect.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
@@ -287,10 +293,13 @@ iHOT系列,#genre#
 天下第一,http://121.12.115.162/txdirect.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8
 成龍历险记,http://121.12.115.162/txdirect.hls.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8
 猫和老鼠,http://121.12.115.162/txdirect.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
+金庸武侠,http://121.51.249.99/txdirect.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
+仙侠玄幻,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
 怀旧动画,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8
 倒霉熊,http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8
 和平精英,https://d1--cn-gotcha204.bilivideo.com/live-bvc/750616/live_50329337_6907945_4000/index.m3u8
 王者荣耀,https://d1--cn-gotcha204.bilivideo.com/live-bvc/483937/live_392836434_52698792_4000/index.m3u8
+
 
 
 </body>`
