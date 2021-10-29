@@ -7,7 +7,7 @@ CCTV-1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725
 CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 CCTV-3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
 CCTV-4中文国际,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-CCTV-5体育,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+CCTV-5体育,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 CCTV-5+体育赛事,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
 CCTV-6电影,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227430/index.m3u8
 CCTV-7国防军事,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
