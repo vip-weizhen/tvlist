@@ -3,11 +3,12 @@ const html = `<!DOCTYPE html>
 <body>
 
 央视频道,#genre#
+央视新闻·正直播,https://newscncc.v.wscdns.com/news/news20_1/index.m3u8
 CCTV-1综合,http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
 CCTV-2财经,http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
 CCTV-3综艺,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
 CCTV-4中文国际,http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-CCTV-5体育,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+CCTV-5体育,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
 CCTV-5+体育赛事,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
 CCTV-6电影,http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227430/index.m3u8
 CCTV-7国防军事,http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
@@ -30,7 +31,7 @@ CHC家庭电影,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
 发现之旅,http://223.110.241.137:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/.m3u8
 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-老故事,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+老故事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
@@ -111,10 +112,11 @@ CHC家庭电影,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 
 数字频道,#genre#
 梨园,http://125.210.152.18:9090/live/LY.m3u8
+武术世界,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225691/1/index.m3u8?fmt=ts2hls
 中华美食,http://223.110.243.244/PLTV/4/224/3221227017/index.m3u8
 国学频道,http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/.m3u8
 快乐垂钓,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
-茶频道,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
+茶频道,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226240/1/index.m3u8?fmt=ts2hls
 四海钓鱼,http://120.221.165.62/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://125.210.152.18:9090/live/ZGQX.m3u8
 家庭理财,http://125.210.152.18:9090/live/JTLC.m3u8
@@ -178,8 +180,11 @@ HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 寰宇新闻,http://www.hrpan.tk/hls/tl_hyxw.m3u8
 TVBSHD,http://www.hrpan.tk/hls/tvbspd.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
-
+翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
+明珠台,https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
+翡翠J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
+无线新闻,https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
+无线财经资讯,https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
 
 
 埋堆堆,#genre#
