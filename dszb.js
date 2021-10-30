@@ -22,9 +22,9 @@ CCTV-15音乐,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/322122772
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-17农村农业,http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
-CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
-CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
+CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭电影,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
